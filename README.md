@@ -13,6 +13,7 @@
 > Because my MK-II boosterpack came faulty without the temperature sensor I had to modify the BSP files and insert random values. The originals are included.
 
 ## Video Demo
+https://youtu.be/zDBGWCdqHu0
 
 ## Author
 

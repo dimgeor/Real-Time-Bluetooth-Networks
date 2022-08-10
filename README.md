@@ -1,4 +1,4 @@
-<h1 align="center">Fitness</h1>
+<h1 align="center">Fitness Device</h1>
 <p>
 </p>
 
